@@ -14,6 +14,9 @@
 
 ## 📽️ Demo
 
+<img width="1917" height="1027" alt="Demo-" src="https://github.com/user-attachments/assets/e132c9e6-014c-417a-a8bd-434bb51468bc" />
+
+
 ```
 [INFO] [yolo_detector_node]: TARGET 'person' | err=+0.823 area=0.0933 conf=0.91
 [INFO] [obstacle_aware_controller]: → Detected person! State: ALIGNING
